@@ -7,3 +7,6 @@
 li:hover{
     transform: scale(1.15);
 }
+h1{
+    text-align: center;
+}
