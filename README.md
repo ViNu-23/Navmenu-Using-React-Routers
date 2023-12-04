@@ -3,20 +3,20 @@
 This is a basic React application showcasing the use of React Router to create a navigation bar.
 
 ## Project Structure
-/public: Contains index.html.
-/src: Main source code directory.
-/Pages: Individual page components (Home, About, Contact, More).
-App.js: React Router setup.
-index.js: Entry point.
-/styles: CSS styles for components.
-README.md: Documentation.
+/public: Contains index.html.<br>
+/src: Main source code directory.<br>
+/Pages: Individual page components (Home, About, Contact, More).<br>
+App.js: React Router setup.<br>
+index.js: Entry point.<br>
+/styles: CSS styles for components.<br>
+README.md: Documentation.<br>
 ## Dependencies
-React
+React<br>
 React Router Dom
 ## Setup
-Clone the repository.
-Navigate to the project directory.
-Run npm install to install dependencies.
+Clone the repository.<br>
+Navigate to the project directory.<br>
+Run npm install to install dependencies.<br>
 Run npm start to start the development server.
 ## Navigation Bar
 The app features a navigation bar styled with Bootstrap, allowing easy navigation between Home, About, Contact, and More pages.
