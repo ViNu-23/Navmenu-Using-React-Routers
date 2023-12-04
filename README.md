@@ -5,7 +5,7 @@ This is a basic React application showcasing the use of React Router to create a
 ## Project Structure
 /public: Contains index.html.<br>
 /src: Main source code directory.<br>
-/Pages: Individual page components (Home, About, Contact, More).<br>
+    /Pages: Individual page components (Home, About, Contact, More).<br>
 App.js: React Router setup.<br>
 index.js: Entry point.<br>
 /styles: CSS styles for components.<br>
